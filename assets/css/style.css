@@ -1294,6 +1294,7 @@ Products Details Area CSS
 
 .products-details-tabs {
   margin-top: 50px;
+  margin-bottom: 50px;
 }
 .products-details-tabs .nav {
   display: block;
