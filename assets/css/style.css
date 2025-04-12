@@ -164,7 +164,7 @@ p:last-child {
   display: inline-block;
   color: var(--whiteColor);
   transition: var(--transition);
-  background-color: var(--primaryColor);
+  background-color: var(--secondaryColor);
   font-size: 13px;
   font-family: var(--headingFontFamily);
 }
@@ -1327,10 +1327,10 @@ Products Details Area CSS
   bottom: -2px;
   position: absolute;
   transition: var(--transition);
-  background-color: var(--primaryColor);
+  background-color: var(--secondaryColor);
 }
 .products-details-tabs .nav .nav-item .nav-link:hover, .products-details-tabs .nav .nav-item .nav-link.active {
-  color: var(--blackColor);
+  color: var(--secondaryColor);
 }
 .products-details-tabs .nav .nav-item .nav-link:hover::before, .products-details-tabs .nav .nav-item .nav-link.active::before {
   width: 100%;
